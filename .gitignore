@@ -35,3 +35,9 @@ data/raw/*.arff
 .lycheecache
 **/*.log
 **/gestures/
+
+
+#notebooks
+*01_tensors_jv.ipynb
+*99_joecode.ipynb
+*notebooks/1_pytorch_intro/04_neuralnets.ipynb
